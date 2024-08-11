@@ -1,0 +1,9 @@
+Adv Devops folder
+
+Name: Kshitij Hundre
+Div:D15C
+Roll No:18
+
+Exp 1A : Static Hosting
+Exp 1B : IAM and Cloud9
+Exp 2  : Beanstalk
